@@ -1,0 +1,10 @@
+D:\Epic-Bets-Project\EpicBets\EpicBets\bin\Debug\EpicBets.exe.config
+D:\Epic-Bets-Project\EpicBets\EpicBets\bin\Debug\EpicBets.exe
+D:\Epic-Bets-Project\EpicBets\EpicBets\bin\Debug\EpicBets.pdb
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.csprojAssemblyReference.cache
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.PatallaLogin.resources
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.Properties.Resources.resources
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.csproj.GenerateResource.cache
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.csproj.CoreCompileInputs.cache
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.exe
+D:\Epic-Bets-Project\EpicBets\EpicBets\obj\Debug\EpicBets.pdb
